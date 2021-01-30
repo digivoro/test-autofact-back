@@ -1,0 +1,14 @@
+[
+  {
+    "user": "user@gmail.com",
+    "pass": "123456",
+    "type": "user",
+    "lastForm": "30-01-2020"
+  },
+  {
+    "user": "admin@gmail.com",
+    "pass": "123456",
+    "type": "admin",
+    "lastForm": "30-01-2021"
+  }
+]
